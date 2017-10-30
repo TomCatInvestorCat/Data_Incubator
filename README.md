@@ -1,2 +1,12 @@
 # Data_Incubator
 Data Incubator Proposal Store
+North Korea is unpredictable and isolated, according to conventional wisdom. But what does the data say about North Korea? By combining publicly available databases of missile tests and other aggressive events with north korean and international news, statements and indicators to study these events, we could learn about the patterns in these actions. Does sentiment analysis of international news or leaders’ statements lead to changes in DPRK behaviour - does condemnation work? Indeed, do sanction announcements (rather than sanctions themselves)? And does the Trump tactic of ‘talking tough’ bring benefits? Or does a period of quiet chatter lead to a higher chance of a missile launch or a nuclear test? Most importantly, what can we glean from the DPRK itself? DPRK-sourced propaganda, statements and news stories going back to 1997 are available online (accessible from a japanese-source IP or via VPN) and could offer not only novel textual analysis of the source itself, but also its link to the country’s actions.
+
+Not only this, but interesting patterns can easily be seen in early analysis - the Korean Won moves sharply before missile tests, not after - clearly, information is being received before the tests are made (plot 1). Undoubtedly, north Korea is making strategic decisions and choosing . Looking at media cloud sentence counts, “North Korea”, “Missiles” and “Nuclear test” are all linked intimately with missile launches and the launches themselves do not always generate consistent levels of interest, giving us variation to analyse. (plot 2)
+
+Ideally, as an end product of this project a publicly available self-updating updating source with transparent/open-source analysis would be of great benefit - whether you want to know if the stock-market dip after a missile test is going to last or if you are worried about a change in diplomatic discourse, modern data science may have the answer.
+
+My data sources will include the media cloud news database (mediacloud.org), the CNS North Korea Missile Test Database (http://www.nti.org/analysis/articles/cns-north-korea-missile-test-database/) and the Korea News Service (www.kcna.co.jp). This will not be all - I am to create systems to read, analyse and store North Korean Publications for public viewing, including an easy analysis interface with the skills I learn from the Data Incubator.
+
+
+
